@@ -28,4 +28,4 @@ Prototypes for functions written in this project:
 | `5-text_indentation.py`  | `def text_indentation(text):`                |
 | `100-matrix_mul.py`      | `def matrix_mul(m_a, m_b):`                  |
 | `101-lazy_matrix_mul.py` | `def lazy_matrix_mul(m_a, m_b):`             |
-| `102-python.c`           | `void print_python_string(PyObject *p);      | 
+| `102-python.c`           | `void print_python_string(PyObject *p);`     | 
