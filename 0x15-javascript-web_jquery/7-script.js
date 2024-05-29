@@ -1,5 +1,5 @@
-// Fetches the StarWars character name from
-// 'https://swapi-api.alx-tools.com/api/people/5/?format=json'
+/* eslint semi: ["error", "always"] */
+/* global $ */
 
 const url = 'https://swapi-api.alx-tools.com/api/people/5/?format=json';
 

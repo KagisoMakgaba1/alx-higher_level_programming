@@ -1,3 +1,4 @@
-// Use jQuery API to change color of header tag to red
+/* eslint semi: ["error", "always"] */
+/* global $ */
 
 $('header').css('color', '#FF0000');

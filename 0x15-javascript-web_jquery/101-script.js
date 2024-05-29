@@ -1,4 +1,6 @@
-// adds, removes and clears `<li> elements from a list when the user clicks
+/* eslint semi: ["error", "always"] */
+/* global $ */
+
 $(document).ready(() => {
   $('div#add_item').on('click', () => {
     $('ul.my_list').append('<li>Item</li>');

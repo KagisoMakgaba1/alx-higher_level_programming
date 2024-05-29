@@ -1,5 +1,5 @@
-// Fetches and lists the title for all movies using the url
-// 'https://swapi-api.alx-tools.com/api/films/?format=json'
+/* eslint semi: ["error", "always"] */
+/* global $ */
 
 const url = 'https://swapi-api.alx-tools.com/api/films/?format=json';
 const moviesList = $('ul#list_movies');

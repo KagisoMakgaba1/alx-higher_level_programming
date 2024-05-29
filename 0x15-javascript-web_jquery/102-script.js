@@ -1,4 +1,5 @@
-// fetches and prints how to say “Hello” depending on the language
+/* eslint semi: ["error", "always"] */
+/* global $ */
 
 const url = 'https://hellosalut.stefanbohacek.dev/?lang=';
 

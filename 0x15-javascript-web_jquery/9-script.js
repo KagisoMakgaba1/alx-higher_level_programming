@@ -1,5 +1,5 @@
-// Fetches from https://hellosalut.stefanbohacek.dev/?lang=fr and displays the
-// value of hello from that fetch in the HTML tag div#hello.
+/* eslint semi: ["error", "always"] */
+/* global $ */
 
 const url = 'https://hellosalut.stefanbohacek.dev/?lang=fr';
 $.get(url, (data) => {
